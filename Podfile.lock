@@ -1,0 +1,18 @@
+PODS:
+  - AdColony (2.6.1)
+  - Flurry-iOS-SDK/FlurrySDK (7.6.3)
+  - Google-Mobile-Ads-SDK (7.8.1)
+
+DEPENDENCIES:
+  - AdColony
+  - Flurry-iOS-SDK/FlurrySDK
+  - Google-Mobile-Ads-SDK (~> 7.5)
+
+SPEC CHECKSUMS:
+  AdColony: a9859672fee49d9a81017d1fffa3133bf8538bd8
+  Flurry-iOS-SDK: 5ea9c76a73ce16bff005d21a4f0b539d2c15d97d
+  Google-Mobile-Ads-SDK: 3c2a6656117989469bfe7645640aa1de024a4c6c
+
+PODFILE CHECKSUM: 22d61b948b19c2f95f866ae73d797c1d5c659844
+
+COCOAPODS: 1.1.1
